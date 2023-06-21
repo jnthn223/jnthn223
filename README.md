@@ -4,4 +4,4 @@ Taking up Bachelor of Science in Information Technology. The goal is to become a
 
 Email me: aplacadorjonathan2@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnthn223&theme=dark)](https://github.com/jnthn223/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnthn223&theme=dark&langs_count=8)](https://github.com/jnthn223/github-readme-stats)
